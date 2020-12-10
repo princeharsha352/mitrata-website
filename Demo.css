@@ -1,0 +1,27 @@
+body
+{
+  margin: 0;
+  shading: 0;
+  font-family: 'Fira Sans', sans-serif;
+}
+.header
+{
+  height: 100vh;
+  width: 100%;
+  background: url("images/set4.jpg")no-repeat;
+  background-size:cover;
+  background-position: center;
+}
+.main
+{
+  width: 50%;
+  background: rgba(0, 0, 0, 0.4);
+  color: #ffffff;
+  text-align: center;
+  padding: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+}
